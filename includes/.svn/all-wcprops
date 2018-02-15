@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes
+END
+admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes/admin.inc
+END
+sidebottom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes/sidebottom.inc
+END
+metad.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes/metad.inc
+END
+nav_sub.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes/nav_sub.inc
+END
+metak.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes/metak.inc
+END
+db_templ.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes/db_templ.php
+END
+nav.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes/nav.inc
+END
+address.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/includes/address.inc
+END

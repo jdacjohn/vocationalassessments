@@ -1,0 +1,36 @@
+Migration Notes:
+
+1.  Moved AddType directives from the .htaccess file in webroot to the vhost entry for the site and deleted the .htaccess
+file from the webroot.
+
+2.  Converted all .html files to .php - debugged and updated to php 5:
+		/index.php - 1/12/2008
+		/includes/*.inc - 1/12/2008
+		/programs.php - 1/12/2008
+		/links.php - 1/12/2008
+		/services.php - 1/12/2008
+		/locations.php - 1/13/2008
+		/map_to_location.php - 1/13/2008
+		
+3.  Create new MySQL DB to support the backend.  
+		LocalHost:
+			DB Name:  vipsvcs
+			user:  jarnold
+			password: whirlwind
+			
+		Prodserver:
+			DB Name:
+			user:
+			password:
+			
+		Created the following tables:
+			reports - 1/12/2008
+			links - 1/12/2008
+			locations - 1/13/2008
+			loc_dates - 1/13/2008
+			referrals - 1/13/2008
+			modified locations to contain additional image information. - 1/13/2008
+			Loaded locations table using available information from map files. - 1/13/2008
+			
+4.  Modified ../connect.inc to use MySQL and moved file to ./p2952x783E4/connect.php
+

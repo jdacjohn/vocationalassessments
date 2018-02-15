@@ -1,0 +1,256 @@
+BODY {
+  margin: 0;
+}
+
+
+P {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+}
+
+.top_nav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	margin-left: 0.3em;
+}
+.top_nav a {
+	text-decoration:none;
+}
+
+.paddit {
+  margin-right: 0.5em;
+  margin-left: 0.5em;
+}
+
+ADDRESS {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 0.6em;
+  border-left: silver thin solid;
+  border-top: silver thin solid;
+  padding-top: 1em;
+  padding-left: 1em; 
+}
+
+.sideaddr {
+  font-size: 0.6em;
+}
+
+H1 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 1.3em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+H2 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  background-color: silver;
+}
+
+H3 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 1.1em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+
+.silverbar {
+  background-color: #C0C0C0;
+}
+
+LI {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+UL.smaller { font-size: .8em; }
+
+DL {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+DT {
+  font-weight: bold;
+  font-size: 1.0em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.desc {
+   font-weight: normal;
+   font-size: .9em;
+   padding-left: 1em;
+   }
+
+.abstract {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.location { 
+	border: navy medium solid;
+}
+
+/******************* #login screen styles *************/
+#lg-tl {
+	background-image: url(../images/login/login_tl.png);
+	background-repeat: no-repeat;
+}
+#lg-top {
+	background-image: url(../images/login/login_top.png);
+	background-repeat: repeat-x;
+}
+#lg-tr {
+	background-image: url(../images/login/login_tr.png);
+	background-repeat: no-repeat;
+}
+.lg-left {
+	background-image: url(../images/login/login_left.png);
+	background-repeat: repeat-y;
+}
+.lg-bg {
+	color: #000000;
+	background-color: #e8e8e8;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 0px 0px 5px 0px;
+}
+.lg-right {
+	background-image: url(../images/login/login_right.png);
+	background-repeat: repeat-y;
+}
+.lg-input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+#lg-bl {
+	background-image: url(../images/login/login_bl.png);
+	background-repeat: no-repeat;
+}
+#lg-bot {
+	background-image: url(../images/login/login_bottom.png);
+	backround-repeat: repeat-x;
+}
+#lg-br {
+	background-image: url(../images/login/login_br.png);
+	background-repeat: no-repeat;
+}
+
+/* Referral Form Styles */
+#rf-tl {
+	background-image: url(../images/login/login_tl.png);
+	background-repeat: no-repeat;
+}
+#rf-top {
+	background-image: url(../images/login/login_top.png);
+	background-repeat: repeat-x;
+}
+#rf-tr {
+	background-image: url(../images/login/login_tr.png);
+	background-repeat: no-repeat;
+}
+.rf-left {
+	background-image: url(../images/login/login_left.png);
+	background-repeat: repeat-y;
+}
+.rf-bg {
+	color: #000000;
+	background-color: #e8e8e8;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 0px 0px 0px 0px;
+}
+.rf-bg-h1 {
+	color: #000000;
+	background-color: #e8e8e8;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight:bold;
+	padding: 0px 0px 5px 0px;
+}
+.rf-bg-h2 {
+	color: #000000;
+	background-color: #e8e8e8;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight:bold;
+	padding: 0px 0px 0px 0px;
+	text-decoration:underline;
+}
+
+.rf-right {
+	background-image: url(../images/login/login_right.png);
+	background-repeat: repeat-y;
+}
+.rf-input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight:normal;
+}
+.rf-label {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight:bold;
+}
+
+#rf-bl {
+	background-image: url(../images/login/login_bl.png);
+	background-repeat: no-repeat;
+}
+#rf-bot {
+	background-image: url(../images/login/login_bottom.png);
+	backround-repeat: repeat-x;
+}
+#rf-br {
+	background-image: url(../images/login/login_br.png);
+	background-repeat: no-repeat;
+}
+
+.rf-header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight:bold;
+}
+.rf-body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+}
+refH1 {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 1.4em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+	font-weight:bold;
+	font-variant:small-caps;
+}
+refH2 {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+	font-weight:bold;
+	font-variant:small-caps;
+	text-decoration:underline;
+}
+refAddress {
+  font-family:"Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 0.9em;
+  margin-top: 0em;
+  padding-left: 0em; 
+}
+.rf-show-label {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.rf-show-value {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration:underline;
+}
+

@@ -1,0 +1,22 @@
+	<?php
+  	// Contains DB Connect info.  Variables used below are declared in this file.
+  	include("./p2952x783E4/connect.php");
+  	//connect to db server
+  	$dbconn=mysql_connect("$strServer","$strUser","$strPwd") or die("Could not connect to " . $strServer . "  " . mysql_error());
+  	if (!empty($dbconn)) {	
+     	// select the database
+     	$dbinst=mysql_select_db("$strDatabase",$dbconn) or die("Could not connect to Database " . $strDatabase);
+                     
+     	if ($dbinst) {		
+        $stmt = "select * from reports order by title";
+        $res = mysql_query($stmt,$dbconn);
+        while ($dbrow = mysql_fetch_array($res)) {
+					print("...\n");
+      	}
+				mysql_free_result($res);
+    	} // End if ($dbinst..
+  	} // End if (!empty($dbconn...
+  	// close db connection
+  	mysql_close($dbconn);
+	?>
+

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients
+END
+list_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/list_reports.php
+END
+delete_location.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/delete_location.php
+END
+list_clients.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/list_clients.php
+END
+delete_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/delete_date.php
+END
+auth_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/auth_user.php
+END
+ref_submit.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/ref_submit.php
+END
+delete_client.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/delete_client.php
+END
+logged.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/logged.php
+END
+referral.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/referral.php
+END
+show_referral.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/show_referral.php
+END
+edit_dates.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/edit_dates.php
+END
+add_location_v.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/add_location_v.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/index.php
+END
+add_client2.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/add_client2.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/login.php
+END
+edit_client_v.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/edit_client_v.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/logout.php
+END
+add_clients.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/add_clients.php
+END
+add_map_v.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/add_map_v.php
+END
+edit_location_map.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/edit_location_map.php
+END
+edit_location.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/edit_location.php
+END
+ref_sub_success.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/ref_sub_success.php
+END
+add_location.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/add_location.php
+END
+links.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/links.php
+END
+edit_location_text.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/edit_location_text.php
+END
+edit_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/edit_date.php
+END
+edit_client.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/edit_client.php
+END
+add_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/add_report.php
+END
+show_referral2.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/show_referral2.php
+END
+add_client.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DEV/!svn/ver/100/VocationalAssessments/webappnew/clients/add_client.php
+END
