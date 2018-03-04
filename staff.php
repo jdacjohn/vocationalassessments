@@ -1,10 +1,10 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html401/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>Staff - Vocational Assessments</title>
 <link rel="STYLESHEET" href="./css/vip.css">
 	<!-- metatags if needed -->
-	<?php 
+	<?php
 		include('./includes/metak.inc');
   	include('./includes/metad.inc');
 	?>
@@ -87,14 +87,19 @@
               <td colspan="2" class="silverbar"><h2>VIP Staff</h2></td>
             </tr>
             <tr>
-              <td valign="TOP" width="487"><table width="90%" border="0" align="center">
+              <td valign="TOP" width="487">
+                <table width="90%" border="0" align="center">
                   <tbody>
                     <tr>
-                      <td><img src="./images/photo_Rich_Adkins.jpg" alt="Rich Adkins" width="140" height="250" border="0"></td>
-                      <td valign="TOP"><p><strong>Rich Adkins, BS</strong><br>
-                          Vocational Evaluator. Graduated University of North Texas with a degree in vocational 
+                      <td>
+                        <img src="./images/Rich-Adkins.jpg" alt="Rich Adkins" border="0" />
+                      </td>
+                      <td valign="TOP">
+                        <p><strong>Rich Adkins, BS</strong><br>
+                          Vocational Evaluator. Graduated University of North Texas with a degree in vocational
                           evaluation. Practicing as a vocational evaluator since 1993.<br />&nbsp;<br />
-                          Email: <a href="mailto:richelsewhere@yahoo.com">richelsewhere@yahoo.com</a></p></td>
+                          Email: <a href="mailto:richelsewhere@yahoo.com">richelsewhere@yahoo.com</a></p>
+                      </td>
                     </tr>
                     <tr>
                       <td colspan="2" style="background-color: silver;">&nbsp; &nbsp;</td>
@@ -104,48 +109,48 @@
                 <table width="90%" border="0" align="center">
                   <tbody>
                     <tr>
-                      <td valign="TOP"><p><strong>Michael Clay, SHN</strong><br>
-                          Vocational Evaluator. </p></td>
-                      <td><img src="./images/photo_MikeClay.JPG" alt="Mike Clay" width="140" height="207" border="0"></td>
+                      <td width="150">
+                        <img src="./images/photo_MikeClay.JPG" alt="Mike Clay" border="0" />
+                      </td>
+                      <td valign="TOP">
+                        <p><strong>Michael Clay, SHN</strong><br>
+                          Vocational Evaluator. </p>
+                      </td>
                     </tr>
                     <tr>
-                      <td valign="TOP" colspan="2" style="background-color: silver;">&nbsp; &nbsp;</td>
-                    </tr>
-                  </tbody>
-                </table>
-                <table width="90%" border="0" align="center">
-                  <tbody>
-                    <tr>
-                      <td><img src="./images/photo_Aaron_Nunn.jpg" alt="Aaron Nunn" width="140" height="207" border="0"></td>
-                      <td valign="TOP"><p><strong>Aaron Nunn, MSW</strong><br>
-                          Vocational Evaluator, MSW - Stephen F. Austin 2009. Practicing as a vocational evaluator 
-                          since 2008.<br />&nbsp;</p></td>
-                    </tr>
-                    <tr>
-                      <td valign="TOP" colspan="2" style="background-color: silver;">&nbsp; &nbsp;</td>
+                      <td colspan="2" style="background-color: silver;">&nbsp; &nbsp;</td>
                     </tr>
                   </tbody>
                 </table>
                 <table width="90%" border="0" align="center">
                   <tbody>
                     <tr>
-                      <td valign="TOP"><p><strong>Michael Driscoll, MS</strong><br>
-                          Certified Vocational Evaluator and Certified Rehabilitation Counselor. Graduated University 
-                          of Arizona with a degree in Rehabilitation Counseling with the Deaf and Vocational 
-                          Evaluation. Practicing in Texas since 1990. Member National Rehabilitation Association, 
-                          Vocational Evaluation Work Adjustment Association, &#38; National Rehabilitation Counselor 
+                      <td valign="top">
+                        <img src="./images/photo_Michael_Driscoll.jpg" alt="Michael Driscoll" border="0" />
+                      </td>
+                      <td valign="TOP">
+                        <p><strong>Michael Driscoll, MS</strong><br>
+                          Certified Vocational Evaluator and Certified Rehabilitation Counselor. Graduated University
+                          of Arizona with a degree in Rehabilitation Counseling with the Deaf and Vocational
+                          Evaluation. Practicing in Texas since 1990. Member National Rehabilitation Association,
+                          Vocational Evaluation Work Adjustment Association, &#38; National Rehabilitation Counselor
                           Association. Fluent in American Sign Language.<br />&nbsp;<br />
-                          Email: <a href="mailto:VIPServicesTexas@gmail.com">VIPServicesTexas@gmail.com</a></p></td>
-                      <td><img src="./images/photo_Michael_Driscoll.jpg" alt="Michael Driscoll" width="140" height="224" border="0"></td>
+                          Email: <a href="mailto:VIPServicesTexas@gmail.com">VIPServicesTexas@gmail.com</a></p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2" style="background-color: silver;">&nbsp; &nbsp;</td>
                     </tr>
                   </tbody>
-                </table></td>
+                </table>
+              </td>
               <td valign="TOP"><p class="sideaddr"><strong>VIP SERVICES<br>
                   P.O. Box 818<br>
                   Clyde, TX 79510</strong></p></td>
             </tr>
           </tbody>
-        </table></td>
+        </table>
+      </td>
     </tr>
     <tr>
     <td width="123" align="LEFT">
