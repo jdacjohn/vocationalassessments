@@ -2,7 +2,7 @@
  <head>
   <title>Vocational Assessments Edit Client</title>
 	<!-- metatags if needed -->
-	<?php 
+	<?php
 		include('../includes/metak.inc');
   	include('../includes/metad.inc');
 	?>
@@ -24,7 +24,7 @@
 
  <body>
   <div style="background-color: navy; color: white; font-family: Arial, sans-serif; height: 100;">
-   <img alt="" src="../images/sidebar_logo.gif" width="123" height="95" border="0" align="RIGHT"> 
+   <img alt="" src="../images/sidebar_logo.gif" width="123" height="95" border="0" align="RIGHT">
    <hr>
   </div>
 
@@ -38,13 +38,13 @@
 		$clid = $_POST['clid'];
   	//connect to db server
   	$dbconn=mysqli_connect("$strServer","$strUser","$strPwd") or die("Could not connect to " . $strServer . "  " . mysqli_error($dbconn));
-  	if (!empty($dbconn)) {	
+  	if (!empty($dbconn)) {
      	// select the database
-     	$dbinst=mysqli_select_db($dbconn"$strDatabase") or die("Coud not connect to Database " . $strDatabase);
-			
-     	if ($dbinst) {		
+     	$dbinst=mysqli_select_db($dbconn,"$strDatabase") or die("Coud not connect to Database " . $strDatabase);
+
+     	if ($dbinst) {
         $stmt = "select * from clients where clid = $clid and cmid = $cmid";
-        $res = mysqli_query($dbconn$stmt);
+        $res = mysqli_query($dbconn,$stmt);
 				if (!res) {
 					print("An error has occurred.  Please click the Back button and try the operation again.  If the problem persists, please contact the " .
 						"<a href='mailto:webmaster@vocationalassessments.com'>Website Administrator</a><br />\n");
@@ -70,15 +70,15 @@
 						// Stand-By Approved
 						print("Stand-By Approved:<br />\n");
 						print("Yes <input type='radio' name='standby_approved' value='Y'");
-						if ($dbrow['standby_approved'] == 'Y') { 
-							print(" checked "); 
-						} 
+						if ($dbrow['standby_approved'] == 'Y') {
+							print(" checked ");
+						}
 						print("/>&nbsp;&nbsp;No <input type='radio' name='standby_approved' value='N'");
-						if ($dbrow['standby_approved'] == 'N') { 
-							print(" checked "); 
-						} 
+						if ($dbrow['standby_approved'] == 'N') {
+							print(" checked ");
+						}
 						print("/><br />\n");
-					}	
+					}
 					print("Memo:<br>\n");
 					print("<textarea name='notes' rows='5' cols='50'>" . stripslashes($dbrow['notes']) . "</textarea><br>\n");
 					print("<input type='submit' value='Submit Edit'><input type='reset' value='Reset'>\n");
@@ -86,11 +86,11 @@
 				}
 				mysqli_free_result($res);
     	}
-  	} 
+  	}
   	// close db connection
   	mysqli_close($dbconn);
 	?>
-  
+
 <!-- Navigation, buttons -->
 <hr>
 <form action="./index.php" method="post">
@@ -103,4 +103,3 @@
 </div>
  </body>
 </html>
-
